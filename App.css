@@ -1,0 +1,4 @@
+body { font-family: sans-serif; margin: 0; padding: 0; }
+.login, .app { padding: 2rem; }
+nav button { margin-right: 1rem; }
+.tab { margin-top: 1rem; }
